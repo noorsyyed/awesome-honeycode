@@ -9,6 +9,8 @@ Awesome list of AWS Honeycode platform
   
 - [Honeycode](Honeycode)
 - [AppFlow](AppFlow)
+- [Amazon Lex](Amazon-Lex)
+- [Amazon Quicksight](Amazon-Quicksight)
 
 ---
 
