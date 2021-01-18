@@ -5,12 +5,14 @@ Awesome list of AWS Honeycode platform
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - [💬 General](#-general)
-  - [Sign-in Links](sign-in-Links)
+  - [Sign-in Links](#-sign-in-Links)
   
-- [Honeycode](Honeycode)
-- [AppFlow](AppFlow)
-- [Amazon Lex](Amazon-Lex)
-- [Amazon Quicksight](Amazon-Quicksight)
+- [Honeycode](#-Honeycode)
+- [AppFlow](#-AppFlow)
+- [Amazon Lex](#-Amazon-Lex)
+- [Amazon Quicksight](#-Amazon-Quicksight)
+- [➕ Contribute](#-contribute)
+- [🐛 Found an issue](#-found-an-issue)
 
 ---
 
@@ -22,8 +24,6 @@ Awesome list of AWS Honeycode platform
 - [AppFlow](https://aws.amazon.com/appflow/) - Sign in to AppFlow to set up secure data flows in minutes, without managing complex connectors or writing code.
 - [Amazon Lex](https://aws.amazon.com/lex/) -  Sign in to Amazon Lex to build chatbots and voice assistants
 - [Amazon Quicksight](https://aws.amazon.com/quicksight) - Sign to Amazon Quicksight to create and publish interactive  BI dashboards  which is scalable, serverleass, embeddable and powered by Machine Learning.
-- [➕ Contribute](#-contribute)
-- [🐛 Found an issue](#-found-an-issue)
 
 ## Honeycode
 
