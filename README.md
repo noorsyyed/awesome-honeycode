@@ -1,12 +1,15 @@
-# awesome-honeycode
+# Awesome Honeycode [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome list of AWS Honeycode platform
+[<img src="honeycode-logo.svg" align="right" width="100">](https://www.honeycode.aws)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> Useful resources for creating apps on AWS low-code platform [Honeycode](https://www.honeycode.aws)
+
+Amazon Honeycode is a low-code platform that gives you the power to build apps for managing your team's work. With no or low programming required.
+
+**You can now [discuss and ask Honeycode-related questions](https://github.com/noorsyyad/awesome-honeycode/discussions) right in this repo.**
 
 - [💬 General](#-general)
   - [Sign-in Links](#-sign-in-Links)
-  
 - [Honeycode](#-Honeycode)
 - [AppFlow](#-AppFlow)
 - [Amazon Lex](#-Amazon-Lex)

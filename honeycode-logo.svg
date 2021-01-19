@@ -1,0 +1,16 @@
+<svg data-beeswax-icon="true" data-name="Layer 1" viewBox="0 0 87.84 87.63" class="base-101 base-d6-154 styledIcon-152 styledIcon-d0-153">
+    <defs>
+        <radialGradient id="prefix__9dab865_a" cx="43.92" cy="43.82" r="40.91" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fee385"></stop>
+            <stop offset="0.15" stop-color="#fee385"></stop>
+            <stop offset="0.28" stop-color="#b7d58d"></stop>
+            <stop offset="0.41" stop-color="#7cc994"></stop>
+            <stop offset="0.51" stop-color="#51c199"></stop>
+            <stop offset="0.6" stop-color="#37bc9c"></stop>
+            <stop offset="0.65" stop-color="#2dba9d"></stop>
+            <stop offset="0.82" stop-color="#27a6b1"></stop>
+            <stop offset="1" stop-color="#1f8bcc"></stop>
+        </radialGradient>
+    </defs>
+    <path d="M43.92 0L6.13 21.91v43.82l37.79 21.9 37.79-21.9V21.91zM11 24.7l32.8-19 6.24 3.62-32.85 19v25.84L11 50.56zM54.49 50l-10.57 6.07L33.35 50V37.69l10.57-6.13 10.57 6.13zm11.1-.73v7.15L43.88 69l-11.09-6.6v-7l11.15 6.38zM28.36 34.8V60l-6.11-3.6V31.23l10.34-6 6.18 3.57zm15.53 47L11 62.87v-7.21L43.89 74.8l21.76-12.63v7.2zm21.76-38.52l-6.18 3.87V34.76l-21.7-12.55 6.17-3.56 21.74 12.54zm11.14 19.53l-6.21 3.79V28.38L49 15.84l6-3.7 21.8 12.49z" fill="url(#prefix__9dab865_a)"></path>
+</svg>
